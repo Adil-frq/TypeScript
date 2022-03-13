@@ -1,0 +1,16 @@
+Open source Programmig Language and It is created by Microsoft.
+When we write code in TS it transpiles code in JS b'z browser can understand only JS.
+TypeScript is superset of JS.
+
+Setting the development Environment
+-----------------------------------
+Download & Install Visual Studio Code.
+Download & Install Node JS.
+      check the version of node
+           open command prompt and type
+              ->node -v
+              ->nvm -v
+ 
+ Install Typescrit package(compiler)
+ ---------------------------------------
+ npm install -g typescript
