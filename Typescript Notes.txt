@@ -9,8 +9,18 @@ Download & Install Node JS.
       check the version of node
            open command prompt and type
               ->node -v
-              ->nvm -v
+              ->npm -v
  
  Install Typescrit package(compiler)
  ---------------------------------------
  npm install -g typescript
+ 
+ Write simple code in typeScript  hello-world.ts
+ ------------------------------------------------
+ var fn = () => 'resonse'
+ or
+ var fn = function() {
+     return 'response';
+ }
+ 
+ 
